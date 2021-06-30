@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navigation = () => {
     return (
-        <nav class="navbar navbar-light" style="background-color: cadetblue;">
+        <nav class="navbar navbar-light">
         <ul class="nav flex-column">
             <li class="nav-item">
               <a class="about-me" aria-current="page" href="#about-me">About me</a>
