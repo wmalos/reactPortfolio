@@ -8,21 +8,21 @@ const About = () => {
                 <h2> About Me</h2>
             
                 <div class="row">
-                    <div class="col">
+                    {/* <div class="col">
                         <img src="./Assets/Images/headshot1.jpeg" class="img-thumbnail" alt="headshot1">
-                    </div>
+                    </div> */}
                     <div class="col">
                         <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Ut non ipsum pretium sem varius efficitur id nec nisl. 
-                         Donec non magna et ligula fringilla pulvinar. 
-                         Curabitur placerat ornare enim at lobortis. 
-                         Fusce interdum dui quis tristique fringilla. 
-                         Morbi auctor quam a turpis gravida bibendum. 
-                         Vestibulum libero ex, accumsan et dui in, tristique dictum leo. Donec porta bibendum rhoncus. 
-                         Aliquam a lobortis dolor. Pellentesque tristique in est id venenatis. 
-                         Nullam lacus diam, condimentum non nisi eget, convallis dictum nulla. 
-                         Praesent ac velit eget eros convallis dignissim ac et ligula. 
+                        Ut non ipsum pretium sem varius efficitur id nec nisl. 
+                        Donec non magna et ligula fringilla pulvinar. 
+                        Curabitur placerat ornare enim at lobortis. 
+                        Fusce interdum dui quis tristique fringilla. 
+                        Morbi auctor quam a turpis gravida bibendum. 
+                        Vestibulum libero ex, accumsan et dui in, tristique dictum leo. Donec porta bibendum rhoncus. 
+                        Aliquam a lobortis dolor. Pellentesque tristique in est id venenatis. 
+                        Nullam lacus diam, condimentum non nisi eget, convallis dictum nulla. 
+                        Praesent ac velit eget eros convallis dignissim ac et ligula. 
                         Nunc euismod scelerisque feugiat.
                         </p>
                         <p>

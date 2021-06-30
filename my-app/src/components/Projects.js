@@ -2,7 +2,7 @@ import React from 'react';
 
 
 const Projects = () => {
-    return(
+    //return(
         // <div id="projects" class="projects">
         //     <h3>Projects</h3>
         //     <div class="container">
@@ -36,7 +36,7 @@ const Projects = () => {
         //         </div>
         //     </div>
         // </div>
-    )
+    //)
 }
 
 export default Projects
