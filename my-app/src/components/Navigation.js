@@ -1,17 +1,18 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 const Navigation = () => {
     return (
         <nav class="navbar navbar-light">
         <ul class="nav flex-column">
             <li class="nav-item">
-              <a class="about-me" aria-current="page" href="#about-me">About me</a>
+              <Link to="/about" class="about" aria-current="page">About</Link>
             </li>
             <li class="nav-item">
-              <a class="projects" href="#projects">Projects</a>
+              <Link to="/projects" class="projects" aria-current="page">Projects</Link>
             </li>
             <li class="nav-item">
-              <a class="Contact" href="#contact-me">Contact</a>
+              <Link to="/contact" class="contact" aria-current="page">Contact</Link>
             </li>
             <li class="nav-item">
                 <a class="Resume" href="file:///C:/Users/wmalo/Downloads/Resume.pdf">Resume</a>

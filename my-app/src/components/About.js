@@ -1,4 +1,6 @@
 import React from 'react';
+import headshot from "../assets/Images/headshot1.jpeg";
+import './style.css';
 
 
 const About = () => {
@@ -8,9 +10,9 @@ const About = () => {
                 <h2> About Me</h2>
             
                 <div class="row">
-                    {/* <div class="col">
-                        <img src="./Assets/Images/headshot1.jpeg" class="img-thumbnail" alt="headshot1">
-                    </div> */}
+                    <div class="col">
+                        <img src={headshot} class="img-thumbnail" alt="headshot1"/>
+                    </div>
                     <div class="col">
                         <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
