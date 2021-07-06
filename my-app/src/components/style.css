@@ -37,17 +37,18 @@ div .about-me img {
 
 .projects {
   height: 100%;
-  justify-content: left;
-  align-items: left;
-  display: flex;
-  flex-direction: column;
 }
+
 
 .projectsContainer {
   width: 25%;
   padding: 10px;
   margin: 2%;
   float: left;
+  justify-content: left;
+  align-items: left;
+  display: flex;
+  flex-direction: column;
 }
 
 .projects img:hover {

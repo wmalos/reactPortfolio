@@ -13,7 +13,7 @@ const Projects = () => {
         <div id="projects" class="projects">
             <h3>Projects</h3>
             <div class="projectsContainer">
-                <div class="row">
+                <div class="row align-items-start">
                     <div class="col">
                         <h4>Into the Cosmos</h4>
                         <a href="https://chapstick24.github.io/Project-1-/">
@@ -27,7 +27,7 @@ const Projects = () => {
                         </a>    
                     </div>
                 </div>
-                <div class="row">
+                <div class="row align-items-start">
                     <div class="col">
                         <h4>Workday Planner</h4>
                         <a href="https://wmalos.github.io/workdayPlanner/">
